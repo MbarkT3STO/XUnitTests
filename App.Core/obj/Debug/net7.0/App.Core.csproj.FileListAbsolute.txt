@@ -1,0 +1,12 @@
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\bin\Debug\net7.0\App.Core.deps.json
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\bin\Debug\net7.0\App.Core.dll
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\bin\Debug\net7.0\App.Core.pdb
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\App.Core.csproj.AssemblyReference.cache
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\App.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\App.Core.AssemblyInfoInputs.cache
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\App.Core.AssemblyInfo.cs
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\App.Core.csproj.CoreCompileInputs.cache
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\App.Core.dll
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\refint\App.Core.dll
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\App.Core.pdb
+c:\Users\MBARKT3STO\source\repos\XUnitTests\App.Core\obj\Debug\net7.0\ref\App.Core.dll
