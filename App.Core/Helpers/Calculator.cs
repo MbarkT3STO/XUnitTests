@@ -24,6 +24,13 @@ public class Calculator
 
     public int Divide(int a, int b)
     {
-        return a / b;
+        if (b == 0)
+        {
+            throw new DivideByZeroException("The denominator cannot be zero.");
+        }
+        else
+        {
+            return a / b;
+        }
     }
 }

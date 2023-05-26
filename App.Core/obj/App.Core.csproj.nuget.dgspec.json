@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj": {}
+    "c:\\Users\\MBARKT3STO\\Documents\\GitHub\\XUnitTests\\App.Core\\App.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj": {
+    "c:\\Users\\MBARKT3STO\\Documents\\GitHub\\XUnitTests\\App.Core\\App.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj",
+        "projectUniqueName": "c:\\Users\\MBARKT3STO\\Documents\\GitHub\\XUnitTests\\App.Core\\App.Core.csproj",
         "projectName": "App.Core",
-        "projectPath": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj",
+        "projectPath": "c:\\Users\\MBARKT3STO\\Documents\\GitHub\\XUnitTests\\App.Core\\App.Core.csproj",
         "packagesPath": "C:\\Users\\MBARKT3STO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\obj\\",
+        "outputPath": "c:\\Users\\MBARKT3STO\\Documents\\GitHub\\XUnitTests\\App.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MBARKT3STO\\AppData\\Roaming\\NuGet\\NuGet.Config",
