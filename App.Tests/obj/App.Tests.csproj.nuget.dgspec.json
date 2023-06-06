@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj": {}
+    "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj": {
+    "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj",
+        "projectUniqueName": "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj",
         "projectName": "App.Core",
-        "projectPath": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj",
+        "projectPath": "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj",
         "packagesPath": "C:\\Users\\MBARKT3STO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\obj\\",
+        "outputPath": "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MBARKT3STO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj": {
+    "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj",
         "projectName": "App.Tests",
-        "projectPath": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj",
+        "projectPath": "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj",
         "packagesPath": "C:\\Users\\MBARKT3STO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\obj\\",
+        "outputPath": "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MBARKT3STO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj": {
-                "projectPath": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj"
+              "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj": {
+                "projectPath": "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Core\\App.Core.csproj"
               }
             }
           }

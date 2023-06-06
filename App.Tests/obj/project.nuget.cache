@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tLCewpQkPHrAObn8G5o6GdUCOHA+WK8HaR/GcAA3lLW9QBpLrrbv277mc1/cjCsOzA7V02mdI3tMGj4+I+9l8g==",
+  "dgSpecHash": "xWWTMjHHtt/21Ch1T58PkLRGQj39EvxrFJTB0F/kKNyFk8CyPAyu7SSzEiRX11hw6ce8Zm7AwFEh83GU1jDKIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj",
+  "projectFilePath": "c:\\Users\\MBARKT3STO\\source\\repos\\XUnitTests\\App.Tests\\App.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MBARKT3STO\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\MBARKT3STO\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
